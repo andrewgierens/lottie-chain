@@ -1,6 +1,7 @@
 # lottie-chain
 
 Lottie - https://github.com/react-native-community/lottie-react-native
+
 Lottie RN Props - https://github.com/react-native-community/lottie-react-native/blob/master/docs/api.md
 
 Todo:
