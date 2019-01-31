@@ -1,5 +1,8 @@
 # lottie-chain
 
+## Lottie - https://github.com/react-native-community/lottie-react-native
+### Lottie RN Props - https://github.com/react-native-community/lottie-react-native/blob/master/docs/api.md
+
 Todo:
 - [ ] Ability to have one+ animations that will run after each has finished
 - [ ] Ability to have loop count before going to the next animation
